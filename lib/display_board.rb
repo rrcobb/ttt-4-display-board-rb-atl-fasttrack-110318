@@ -13,9 +13,9 @@ end
 
 
 5.times do |n|
-  # puts "hi"
-  puts n
+  if 
   # puts "odd"
+  puts n
   # puts "even"
 end
 
