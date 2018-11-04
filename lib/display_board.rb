@@ -25,8 +25,8 @@ end
 
 names  = ["Rob", "Emily", "Dean", "Tammy", "Brit", "Ansara"]
 
-names.length.times do |i|
-  puts "Hi, #{names[i]}"
+names.each do |name|
+  puts "Hi, #{name}"
 end
   
 
