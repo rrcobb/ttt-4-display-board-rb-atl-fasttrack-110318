@@ -25,8 +25,9 @@ end
 
 names  = ["Rob", "Emily", "Dean", "Tammy", "Brit", "Ansara"]
 
+greetings = []
 names.each do |name|
-  puts "Hi, #{name}"
+  greetings << "Hi, #{name}"
 end
   
 
