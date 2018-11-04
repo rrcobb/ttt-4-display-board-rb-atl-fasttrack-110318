@@ -16,6 +16,7 @@ total = 0
   total = total + n
 end
 
+puts totla
 
 
 
