@@ -13,10 +13,11 @@ end
 
 
 5.times do |n|
-  if 
-  # puts "odd"
-  puts n
-  # puts "even"
+  if n.odd?
+    puts "odd"
+  else
+    puts "even"
+  end
 end
 
 
