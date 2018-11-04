@@ -20,7 +20,7 @@ puts total
 
 # loop
 # while
-
+# .each
 
 
 
