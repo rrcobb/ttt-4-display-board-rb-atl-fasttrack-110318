@@ -12,7 +12,7 @@ end
 
 total = 0
 
-51.times do |n|
+50.times do |n|
   total = total + n
 end
 
