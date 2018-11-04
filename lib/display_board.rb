@@ -12,9 +12,9 @@ end
 
 
 
-5.times do |time|
+5.times do |n|
   # puts "hi"
-  puts time
+  puts n
   # puts "odd"
   # puts "even"
 end
