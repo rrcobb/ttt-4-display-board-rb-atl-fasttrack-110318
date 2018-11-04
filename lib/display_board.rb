@@ -13,7 +13,7 @@ end
 
 x = 1
 
-100000.times do
+5.times do
   puts "hi"
 end
 
