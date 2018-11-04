@@ -12,7 +12,7 @@ end
 
 
 
-5.times do |n|
+50.times do |n|
   if n.odd?
     puts "odd"
   else
