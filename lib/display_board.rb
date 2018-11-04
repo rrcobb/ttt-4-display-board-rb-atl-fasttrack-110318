@@ -23,7 +23,7 @@ end
 # .each
 
 
-names  = ["Rob", "Emily", "Dean", "Tammy", "Brit"]
+names  = ["Rob", "Emily", "Dean", "Tammy", "Brit", "Ansara"]
 
 5.times do |i|
   puts "Hi, #{names[i]}"
