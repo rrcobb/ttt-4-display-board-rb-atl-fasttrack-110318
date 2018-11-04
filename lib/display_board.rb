@@ -10,13 +10,13 @@ def display_board(board)
 end
 
 
-total = 1
+# total = 1
 
-500.times do |n|
-  total = total * (n + 1)
-end
+# 500.times do |n|
+#   total = total * (n + 1)
+# end
 
-puts total
+# puts total
 
 # loop
 # while
