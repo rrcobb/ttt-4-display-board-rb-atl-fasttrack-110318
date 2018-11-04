@@ -23,6 +23,8 @@ puts total
 # .each
 
 
+["Rob", "Emily", "Dean", "Tammy", "Brit"]
+
 
 
 
