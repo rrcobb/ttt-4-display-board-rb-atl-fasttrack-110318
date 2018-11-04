@@ -15,7 +15,6 @@ x = 1
 
 100.times do
   x = x * 2
-  puts "Hello, world"
 end
 
 puts x
