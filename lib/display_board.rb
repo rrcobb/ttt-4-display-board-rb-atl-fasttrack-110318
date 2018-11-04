@@ -13,6 +13,7 @@ end
 total = 0
 
 50.times do |n|
+  puts n
   total = total + n
 end
 
