@@ -14,8 +14,9 @@ end
 
 5.times do |time|
   puts "hi"
-  puts "odd"
-  puts "even"
+  puts time
+  # puts "odd"
+  # puts "even"
 end
 
 
