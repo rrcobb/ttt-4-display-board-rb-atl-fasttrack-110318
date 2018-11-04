@@ -10,7 +10,7 @@ def display_board(board)
 end
 
 
-total = 0
+total = 1
 
 50.times do |n|
   puts total 
