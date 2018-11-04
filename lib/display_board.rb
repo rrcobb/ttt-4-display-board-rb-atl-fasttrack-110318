@@ -10,14 +10,10 @@ def display_board(board)
 end
 
 
-
+total = 1
 
 50.times do |n|
-  if n.odd?
-    puts "odd"
-  else
-    puts "even"
-  end
+  
 end
 
 
