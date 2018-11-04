@@ -30,6 +30,7 @@ names.each do |name|
   greetings << "Hi, #{name}"
 end
   
+puts greetigns
 
 
 
