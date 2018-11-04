@@ -12,10 +12,10 @@ end
 
 
 
-5.times do
+5.times do |time|
   puts "hi"
   puts "odd"
-  puts "event"
+  puts "even"
 end
 
 
