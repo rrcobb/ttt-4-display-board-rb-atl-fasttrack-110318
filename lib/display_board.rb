@@ -18,6 +18,8 @@ end
 
 puts total
 
+# loop
+# while
 
 
 
