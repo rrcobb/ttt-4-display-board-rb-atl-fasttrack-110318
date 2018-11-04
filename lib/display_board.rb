@@ -25,7 +25,7 @@ end
 
 names  = ["Rob", "Emily", "Dean", "Tammy", "Brit", "Ansara"]
 
-6.times do |i|
+names.length.times do |i|
   puts "Hi, #{names[i]}"
 end
   
