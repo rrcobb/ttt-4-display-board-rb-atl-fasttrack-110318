@@ -13,6 +13,8 @@ end
 total = 0
 
 50.times do |n|
+  puts total 
+  puts n
   total = total * (n + 1)
 end
 
