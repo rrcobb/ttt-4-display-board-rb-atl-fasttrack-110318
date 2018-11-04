@@ -23,9 +23,12 @@ puts total
 # .each
 
 
-["Rob", "Emily", "Dean", "Tammy", "Brit"]
+names  = ["Rob", "Emily", "Dean", "Tammy", "Brit"]
 
-
+5.times do |i|
+  puts "Hi, #{names[i]}"
+end
+  
 
 
 
