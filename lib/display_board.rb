@@ -17,8 +17,6 @@ x = 1
   puts "hi"
 end
 
-puts x
-
 
 
 
