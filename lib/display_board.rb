@@ -14,7 +14,8 @@ end
 
 5.times do
   puts "hi"
-  puts "odd"  
+  puts "odd"
+  puts "event"
 end
 
 
