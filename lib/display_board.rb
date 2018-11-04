@@ -13,7 +13,7 @@ end
 
 x = 1
 
-10000.times do
+100000.times do
   x = x * 2
 end
 
