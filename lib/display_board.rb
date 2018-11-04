@@ -13,7 +13,7 @@ end
 
 
 5.times do |time|
-  puts "hi"
+  # puts "hi"
   puts time
   # puts "odd"
   # puts "even"
